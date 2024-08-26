@@ -1,19 +1,7 @@
 {
-    "id": "purple_header_component-d27a0873-4903-4e19-9712-bb3b8977b846",
-    "name": "purple_header_component",
-    "type": "markdown",
-    "metadata": {},
-    "w": 12,
-    "h": 8,
-    "x": "100",
-    "y": "10",
-    "i": "__dropping-elem__",
-    "minW": 3,
-    "maxW": 12,
-    "minH": 1,
-    "maxH": 12,
-    "moved": "false",
-    "static": "false",
-    "isDraggable": "true",
-    "isResizable": "true"
+    "id": "purple_header_component_1724678306",
+    "x_coordinate": "100",
+    "y_coordinate": "10",
+    "width": 1000,
+    "height": 1000
 }
