@@ -9,7 +9,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
                 <a id="logo-link" href="#" class="flex items-center">
                     <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-                        STARTER_TEMPLATE_APPLICATION_NAME
+                        DiscoverNew
                     </span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
@@ -58,7 +58,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
                                 class="block py-2 pl-3 pr-4 text-white bg-purple-700 rounded lg:bg-transparent lg:text-purple-700 lg:p-0 dark:text-white"
                                 aria-current="page"
                             >
-                                STARTER_TEMPLATE_PLACEHOLDER_TABLE_ITEM_1
+                                Trending gadgets
                             </a>
                         </li>
                         <li id="nav-item-1">
@@ -66,7 +66,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
                                 href="#"
                                 class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                             >
-                                STARTER_TEMPLATE_PLACEHOLDER_TABLE_ITEM_2
+                                Innovative home appliances
                             </a>
                         </li>
                         <li id="nav-item-2">
@@ -74,7 +74,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
                                 href="#"
                                 class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                             >
-                                STARTER_TEMPLATE_PLACEHOLDER_TABLE_ITEM_3
+                                Cutting-edge tech accessories
                             </a>
                         </li>
                         <li id="nav-item-3">
@@ -82,7 +82,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
                                 href="#"
                                 class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                             >
-                                STARTER_TEMPLATE_PLACEHOLDER_TABLE_ITEM_4
+                                Unique lifestyle products
                             </a>
                         </li>
                     </ul>
