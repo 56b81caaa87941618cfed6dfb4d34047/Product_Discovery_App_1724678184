@@ -1,0 +1,18 @@
+{
+    "component_name": "simple_header_component",
+    "id": "simple_header_component_1724678187.js",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 8,
+    "x": "100",
+    "y": "10",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
