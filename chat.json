@@ -1,5 +1,14 @@
 [
     {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "26082024131703",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
         "message_id": "mymessageid",
