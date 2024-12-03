@@ -16,5 +16,20 @@
         "metadata": {
             "component_id": "Chart1733224084"
         }
+    },
+    {
+        "id": "26a0d67b-1c06-465d-85f6-0833753e3cac",
+        "timestamp": "2024-12-03T11:40:13.047617Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_gRVgkpTaxOR8CFnIzyAQ3OzJ",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733224341\",\"change_description\":\"Change the x-axis type to be 'time'\",\"acknowledgement_message\":\"Okay, I'm changing the x-axis type to 'time'.\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
