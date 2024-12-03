@@ -57,5 +57,15 @@
         "source": "base_assistant",
         "content": "The x-axis type has been changed to time. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "c6a0d553-b4b3-4840-a453-c16ae31e3a86",
+        "timestamp": "2024-12-03T11:43:27.177025Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Make the y axis tick labels be fully white on both axes",
+        "metadata": {
+            "component_id": "Chart1733225989"
+        }
     }
 ]
