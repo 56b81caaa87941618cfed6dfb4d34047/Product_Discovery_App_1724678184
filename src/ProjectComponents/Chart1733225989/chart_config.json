@@ -91,7 +91,8 @@
             "axisTick": {
                 "interval": "auto"
             },
-            "name": "WEEK_STARTING_MONDAY"
+            "name": "WEEK_STARTING_MONDAY",
+            "type": "time"
         },
         "yAxis": [
             {
