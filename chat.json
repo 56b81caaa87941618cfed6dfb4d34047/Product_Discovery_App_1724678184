@@ -6,29 +6,5 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
-    },
-    {
-        "id": "mymessageid",
-        "timestamp": "2024-08-26T13:17:03",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "can you describe the project a bit more?",
-        "metadata": {}
-    },
-    {
-        "id": "mymessageid",
-        "timestamp": "2024-08-26T13:17:03",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "can you describe the project a bit more?",
-        "metadata": {}
-    },
-    {
-        "id": "mymessageid",
-        "timestamp": "2024-08-26T13:17:03",
-        "role": "user",
-        "source": "user",
-        "content": "add a navbar with the fields home, about and contact",
-        "metadata": {}
     }
 ]
