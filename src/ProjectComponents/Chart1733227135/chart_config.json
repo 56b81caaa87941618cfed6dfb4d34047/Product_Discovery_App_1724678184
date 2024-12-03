@@ -193,7 +193,7 @@
                 }
             },
             {
-                "type": "line",
+                "type": "bar",
                 "name": "NUMBER_OF_BLOCKS",
                 "encode": {
                     "x": "WEEK_STARTING_MONDAY",
