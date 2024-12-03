@@ -55,5 +55,13 @@
         "source": "base_assistant",
         "content": "The x-axis has been changed to the time type. What else would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "479f4f60-97bc-44dd-95af-3b37fe9b9e86",
+        "timestamp": "2024-12-03T11:25:41.168730Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change the first series to be on the left axis",
+        "metadata": {}
     }
 ]
