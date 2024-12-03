@@ -6,56 +6,5 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
-    },
-    {
-        "id": "5dfe41c3-eb19-496d-a691-84a8e93af5a0",
-        "timestamp": "2024-12-03T11:40:08.106234Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "Change the x axis to be of type time",
-        "metadata": {
-            "component_id": "Chart1733224084"
-        }
-    },
-    {
-        "id": "26a0d67b-1c06-465d-85f6-0833753e3cac",
-        "timestamp": "2024-12-03T11:40:13.047617Z",
-        "role": "tool_call",
-        "source": "base_assistant",
-        "content": null,
-        "metadata": {
-            "id": "call_gRVgkpTaxOR8CFnIzyAQ3OzJ",
-            "function": {
-                "arguments": "{\"chart_id\":\"Chart1733224341\",\"change_description\":\"Change the x-axis type to be 'time'\",\"acknowledgement_message\":\"Okay, I'm changing the x-axis type to 'time'.\"}",
-                "name": "EditChart"
-            },
-            "type": "function"
-        }
-    },
-    {
-        "id": "a8a762d1-ab9a-47f1-9f25-38ec3c586e8d",
-        "timestamp": "2024-12-03T11:40:14.929753Z",
-        "role": "assistant",
-        "source": "tool:EditChart",
-        "content": "Okay, I'm changing the x-axis type to 'time'.",
-        "metadata": {}
-    },
-    {
-        "id": "33aa24a1-da6d-4f10-a2e2-ecdba6463234",
-        "timestamp": "2024-12-03T11:40:19.674532Z",
-        "role": "tool_result",
-        "source": "EditChart",
-        "content": "Success",
-        "metadata": {
-            "tool_call_id": "call_gRVgkpTaxOR8CFnIzyAQ3OzJ"
-        }
-    },
-    {
-        "id": "f87ff5da-e9b9-4c65-9588-1149112a0f64",
-        "timestamp": "2024-12-03T11:40:22.789143Z",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "The x-axis has been changed to type 'time'. What's next?",
-        "metadata": {}
     }
 ]
