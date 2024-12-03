@@ -1,0 +1,223 @@
+{
+    "source_visual_id": "27ac7197-2d7c-4be4-b142-e26919361220",
+    "query_id": "f16f1f96-e15a-45b4-b72a-b06ee95a3ea8",
+    "description": "",
+    "graph_type": "line_chart",
+    "echart_config": {
+        "title": {
+            "text": "Polygon Blocks Chart",
+            "textStyle": {
+                "color": "#ffffff"
+            }
+        },
+        "backgroundColor": "#261c3b",
+        "legend": {
+            "show": true,
+            "top": "bottom",
+            "left": 0,
+            "type": "scroll",
+            "itemGap": 15,
+            "textStyle": {
+                "color": "#ffffff"
+            },
+            "padding": [
+                0,
+                80,
+                0,
+                0
+            ],
+            "pageIconColor": "rgba(255,255,255,0.8)",
+            "pageIconInactiveColor": "rgba(255,255,255,0.4)",
+            "pageTextStyle": {
+                "color": "rgba(255,255,255,0.8)"
+            }
+        },
+        "tooltip": {
+            "show": true,
+            "axisPointer": {
+                "type": "line",
+                "lineStyle": {
+                    "type": "solid",
+                    "color": "#ffffff"
+                }
+            },
+            "backgroundColor": "rgba(38, 28, 59, 0.7)",
+            "trigger": "axis",
+            "borderWidth": 0,
+            "appendToBody": true,
+            "textStyle": {
+                "color": "#ffffff",
+                "fontSize": 12,
+                "fontFamily": "Inter",
+                "fontWeight": "regular"
+            },
+            "extraCssText": "backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);"
+        },
+        "grid": {
+            "right": 20,
+            "left": 20,
+            "bottom": 20,
+            "top": 30,
+            "containLabel": true,
+            "show": true,
+            "borderColor": "#34254d"
+        },
+        "xAxis": {
+            "nameGap": 8,
+            "nameLocation": "center",
+            "nameTextStyle": {
+                "color": "#ffffff",
+                "fontWeight": "bold"
+            },
+            "axisLabel": {
+                "hideOverlap": true
+            },
+            "splitLine": {
+                "show": true,
+                "lineStyle": {
+                    "color": "#543E71",
+                    "stroke": "#543E71",
+                    "opacity": 0.5
+                }
+            },
+            "axisLine": {
+                "show": true,
+                "lineStyle": {
+                    "color": "#543E71",
+                    "stroke": "#543E71",
+                    "opacity": 0.5
+                }
+            },
+            "axisTick": {
+                "interval": "auto"
+            },
+            "name": "WEEK_STARTING_MONDAY"
+        },
+        "yAxis": [
+            {
+                "type": "value",
+                "nameLocation": "center",
+                "nameTextStyle": {
+                    "color": "#ffffff",
+                    "fontWeight": "bold"
+                },
+                "axisLabel": {
+                    "hideOverlap": true,
+                    "margin": 25
+                },
+                "splitLine": {
+                    "show": true,
+                    "lineStyle": {
+                        "color": "#543E71",
+                        "stroke": "#543E71",
+                        "opacity": 0.5
+                    }
+                },
+                "axisLine": {
+                    "show": true,
+                    "lineStyle": {
+                        "color": "#543E71",
+                        "stroke": "#543E71",
+                        "opacity": 0.5
+                    }
+                },
+                "axisTick": {
+                    "interval": "auto"
+                },
+                "name": "TOTAL_TRANSACTION_COUNT"
+            },
+            {
+                "type": "value",
+                "nameLocation": "center",
+                "nameTextStyle": {
+                    "color": "#ffffff",
+                    "fontWeight": "bold"
+                },
+                "axisLabel": {
+                    "hideOverlap": true,
+                    "margin": 25
+                },
+                "splitLine": {
+                    "show": true,
+                    "lineStyle": {
+                        "color": "#543E71",
+                        "stroke": "#543E71",
+                        "opacity": 0.5
+                    }
+                },
+                "axisLine": {
+                    "show": true,
+                    "lineStyle": {
+                        "color": "#543E71",
+                        "stroke": "#543E71",
+                        "opacity": 0.5
+                    }
+                },
+                "axisTick": {
+                    "interval": "auto"
+                },
+                "name": "NUMBER_OF_BLOCKS"
+            }
+        ],
+        "series": [
+            {
+                "type": "line",
+                "name": "TOTAL_TRANSACTION_COUNT",
+                "encode": {
+                    "x": "WEEK_STARTING_MONDAY",
+                    "y": "TOTAL_TRANSACTION_COUNT"
+                },
+                "yAxisIndex": 0,
+                "itemStyle": {
+                    "color": {
+                        "type": "linear",
+                        "x": 0,
+                        "y": 0,
+                        "x2": 0,
+                        "y2": 1,
+                        "colorStops": [
+                            {
+                                "offset": 0,
+                                "color": "#96B3FF"
+                            },
+                            {
+                                "offset": 1,
+                                "color": "#2A69C7"
+                            }
+                        ],
+                        "global": false
+                    }
+                }
+            },
+            {
+                "type": "line",
+                "name": "NUMBER_OF_BLOCKS",
+                "encode": {
+                    "x": "WEEK_STARTING_MONDAY",
+                    "y": "NUMBER_OF_BLOCKS"
+                },
+                "yAxisIndex": 1,
+                "itemStyle": {
+                    "color": {
+                        "type": "linear",
+                        "x": 0,
+                        "y": 0,
+                        "x2": 0,
+                        "y2": 1,
+                        "colorStops": [
+                            {
+                                "offset": 0,
+                                "color": "#ED81FF"
+                            },
+                            {
+                                "offset": 1,
+                                "color": "#AA2DC9"
+                            }
+                        ],
+                        "global": false
+                    }
+                }
+            }
+        ]
+    }
+}
