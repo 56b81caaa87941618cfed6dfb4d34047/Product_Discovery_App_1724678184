@@ -6,38 +6,5 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
-    },
-    {
-        "id": "2422007b-7dcd-4e9b-93bc-52f05708319f",
-        "timestamp": "2024-12-03T11:14:32.672113Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "Change the x axis to be of type time",
-        "metadata": {
-            "component_id": "Chart1733224084"
-        }
-    },
-    {
-        "id": "1a0ef3ca-1a55-44c6-9080-42a64062c361",
-        "timestamp": "2024-12-03T11:14:37.084194Z",
-        "role": "tool_call",
-        "source": "base_assistant",
-        "content": null,
-        "metadata": {
-            "id": "call_iyGrZBoVXxRKjIW1puuSQCZ3",
-            "function": {
-                "arguments": "{\"chart_id\":\"Chart1733224341\",\"change_description\":\"change the x axis to be of type time\",\"acknowledgement_message\":\"Okay, I'm changing the x-axis type to time.\"}",
-                "name": "EditChart"
-            },
-            "type": "function"
-        }
-    },
-    {
-        "id": "c14bcfda-577b-4dd9-8f5c-68408fc8aa7d",
-        "timestamp": "2024-12-03T11:14:39.002379Z",
-        "role": "assistant",
-        "source": "tool:EditChart",
-        "content": "Okay, I'm changing the x-axis type to time.",
-        "metadata": {}
     }
 ]
