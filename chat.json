@@ -118,5 +118,20 @@
         "metadata": {
             "component_id": "Chart1733227135"
         }
+    },
+    {
+        "id": "5f456ff9-ea75-4df2-bcbd-81af4a1658d0",
+        "timestamp": "2024-12-03T12:01:19.392051Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_aDQVJ8wVBOU3jUasQuJhRO3H",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733227135\",\"change_description\":\"Change the second series to be color green\",\"acknowledgement_message\":\"Okay, I'm changing the second series to be color green.\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
