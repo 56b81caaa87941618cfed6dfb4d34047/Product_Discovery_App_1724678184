@@ -14,5 +14,20 @@
         "source": "web_client",
         "content": "Change the x axis to be of type time",
         "metadata": {}
+    },
+    {
+        "id": "3ba09c67-66f5-4e93-8cb3-c18d42ec7d37",
+        "timestamp": "2024-12-03T11:19:30.471900Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_fjilRW3hCotKYTVDYwvwfHGY",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733224341\",\"change_description\":\"Change the x-axis to be of type time\",\"acknowledgement_message\":\"Okay, I'm changing the x-axis to type time...\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
