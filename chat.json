@@ -108,5 +108,15 @@
         "source": "base_assistant",
         "content": "The y-axis tick labels have been changed to white. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "cdc8f6fd-1fff-4e6c-932c-4bb469f9cd32",
+        "timestamp": "2024-12-03T12:01:14.773077Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Now change the second series to be color green",
+        "metadata": {
+            "component_id": "Chart1733227135"
+        }
     }
 ]
