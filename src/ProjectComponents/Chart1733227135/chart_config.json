@@ -104,7 +104,8 @@
                 },
                 "axisLabel": {
                     "hideOverlap": true,
-                    "margin": 25
+                    "margin": 25,
+                    "color": "#ffffff"
                 },
                 "splitLine": {
                     "show": true,
@@ -136,7 +137,8 @@
                 },
                 "axisLabel": {
                     "hideOverlap": true,
-                    "margin": 25
+                    "margin": 25,
+                    "color": "#ffffff"
                 },
                 "splitLine": {
                     "show": true,
