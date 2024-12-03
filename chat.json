@@ -67,5 +67,20 @@
         "metadata": {
             "component_id": "Chart1733227135"
         }
+    },
+    {
+        "id": "397bc877-8e51-4aac-8f04-d32801c74a7a",
+        "timestamp": "2024-12-03T12:00:23.256347Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_CaP1oVOpR431B3IMXAMNcgVx",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733227135\",\"change_description\":\"Change the y-axis tick labels to be white\",\"acknowledgement_message\":\"Okay, I'm changing the y-axis tick labels to be white.\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
