@@ -63,5 +63,20 @@
         "source": "web_client",
         "content": "Change the first series to be on the left axis",
         "metadata": {}
+    },
+    {
+        "id": "35aeb5ed-0895-4e1a-bf69-fcee7a7364e4",
+        "timestamp": "2024-12-03T11:25:46.414918Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_yZgtIalUDCQb8SN2e0xujDbb",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733224341\",\"change_description\":\"Change the first series to use the left y-axis.\",\"acknowledgement_message\":\"Okay, I'm changing the first series to use the left y-axis...\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
