@@ -37,5 +37,15 @@
         "source": "tool:EditChart",
         "content": "Okay, I'm changing the x-axis to be of type time...",
         "metadata": {}
+    },
+    {
+        "id": "97a4ff88-7f20-4497-b9f2-59e4e8acc28d",
+        "timestamp": "2024-12-03T11:23:55.235015Z",
+        "role": "tool_result",
+        "source": "EditChart",
+        "content": "Success",
+        "metadata": {
+            "tool_call_id": "call_GEn1EMiQexqo3CPzyD0Cskqx"
+        }
     }
 ]
