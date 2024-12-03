@@ -168,7 +168,7 @@
                     "x": "WEEK_STARTING_MONDAY",
                     "y": "TOTAL_TRANSACTION_COUNT"
                 },
-                "yAxisIndex": 1,
+                "yAxisIndex": 0,
                 "itemStyle": {
                     "color": {
                         "type": "linear",
