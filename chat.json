@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
         "metadata": {}
+    },
+    {
+        "id": "f4313ffd-66fc-407a-9c55-4943ed194325",
+        "timestamp": "2024-12-03T11:42:15.691958Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change the x axis to be of type time",
+        "metadata": {
+            "component_id": "Chart1733225989"
+        }
     }
 ]
