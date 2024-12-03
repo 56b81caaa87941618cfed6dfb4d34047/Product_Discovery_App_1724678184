@@ -159,5 +159,15 @@
         "source": "base_assistant",
         "content": "The second series has been changed to green. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "d15c83de-ad42-46c0-b411-e5eb727dfe9d",
+        "timestamp": "2024-12-03T12:02:32.304262Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change the second series to be columns instead of a line",
+        "metadata": {
+            "component_id": "Chart1733227135"
+        }
     }
 ]
