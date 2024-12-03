@@ -169,5 +169,20 @@
         "metadata": {
             "component_id": "Chart1733227135"
         }
+    },
+    {
+        "id": "217cb307-e6e8-4359-8418-b5c2148fa2c7",
+        "timestamp": "2024-12-03T12:02:36.666973Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_cSv5ZLgVScUqfZ3nJ0822ehZ",
+            "function": {
+                "arguments": "{\"chart_id\":\"Chart1733227135\",\"change_description\":\"Change the second series to be columns instead of a line\",\"acknowledgement_message\":\"Okay, I'm changing the second series to be columns instead of a line.\"}",
+                "name": "EditChart"
+            },
+            "type": "function"
+        }
     }
 ]
