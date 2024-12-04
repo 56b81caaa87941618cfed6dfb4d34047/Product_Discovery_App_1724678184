@@ -274,5 +274,13 @@
         "source": "base_assistant",
         "content": "Yes, I have tools to make changes to charts. Would you like to make more modifications to a chart or do something else?",
         "metadata": {}
+    },
+    {
+        "id": "cb04e166-e6ce-4446-85e4-93038756f5ec",
+        "timestamp": "2024-12-04T16:54:06.337102Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "List all your tools",
+        "metadata": {}
     }
 ]
