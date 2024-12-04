@@ -282,5 +282,13 @@
         "source": "web_client",
         "content": "List all your tools",
         "metadata": {}
+    },
+    {
+        "id": "e3f17b89-9ad9-424f-958e-ece9d4999b42",
+        "timestamp": "2024-12-04T16:54:12.612151Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Here are the tools I can use to help you with your app:\n\n1. **ReadComponentCode**: Read the code of a front-end component.\n2. **EditFrontendComponent**: Edit a front-end component with various changes.\n3. **EditSmartContractFrontendComponent**: Modify a frontend component to add/update smart contract interactions.\n4. **GenerateImageAndPlaceInComponent**: Generate an image from a description and place it in a component.\n5. **TransferToSmartContractAssistant**: Transfer the conversation to a smart contract assistant.\n\nWhat would you like to do next?",
+        "metadata": {}
     }
 ]
