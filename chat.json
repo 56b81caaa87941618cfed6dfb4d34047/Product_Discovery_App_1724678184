@@ -258,5 +258,21 @@
         "source": "base_assistant",
         "content": "Yes, I still have the tools to help you with any further changes or additions you want to make to your app. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "03b99d6e-396b-45c0-b2c5-c55dc503ff6e",
+        "timestamp": "2024-12-04T16:53:49.585016Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "You sure? Do you have a tool for charts?",
+        "metadata": {}
+    },
+    {
+        "id": "0920028a-a661-4248-a664-396962f05fad",
+        "timestamp": "2024-12-04T16:53:52.419293Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Yes, I have tools to make changes to charts. Would you like to make more modifications to a chart or do something else?",
+        "metadata": {}
     }
 ]
