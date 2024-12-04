@@ -306,5 +306,13 @@
         "source": "base_assistant",
         "content": "The tools available can indeed handle various aspects of charts through front-end component edits. You can modify many properties of chart components using these tools. What specific change would you like to make to a chart next?",
         "metadata": {}
+    },
+    {
+        "id": "c0b17fc7-9152-4985-ac22-981adf68f5f5",
+        "timestamp": "2024-12-04T16:54:55.512094Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What components are there in the app?",
+        "metadata": {}
     }
 ]
