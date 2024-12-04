@@ -226,5 +226,13 @@
         "source": "base_assistant",
         "content": "I'm here and ready to help you with building your app! What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "611a6f7e-f78e-436a-aeee-d08efa32f544",
+        "timestamp": "2024-12-04T16:53:13.563026Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "What did we do so far?",
+        "metadata": {}
     }
 ]
