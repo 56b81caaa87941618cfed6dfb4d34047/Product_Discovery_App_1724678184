@@ -314,5 +314,13 @@
         "source": "web_client",
         "content": "What components are there in the app?",
         "metadata": {}
+    },
+    {
+        "id": "6c1baf9e-de60-447a-8b06-77db6d424996",
+        "timestamp": "2024-12-04T16:55:01.355236Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The current components in the app are:\n- `Chart1733225989`\n- `Chart1733224298`\n- `Chart1733228143`\n- `Chart1733227135`\n- `Chart1733149829`\n- `Chart1733222705`\n- `Chart1733224341`\n- `Chart1733227751`\n- `Chart1733227921`\n- `Chart1733224084`\n\nWhat would you like to do with these components?",
+        "metadata": {}
     }
 ]
