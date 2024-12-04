@@ -155,7 +155,7 @@ const ChartComponent: React.FC = () => {
     }
 
     return (
-        <div className="w-full h-full">
+        <div className="w-full h-full bg-blue-500">
             <ReactECharts
                 option={options}
                 style={{ height: '400px', width: '100%' }}
