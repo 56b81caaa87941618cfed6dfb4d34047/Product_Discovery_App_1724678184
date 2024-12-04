@@ -290,5 +290,21 @@
         "source": "base_assistant",
         "content": "Here are the tools I can use to help you with your app:\n\n1. **ReadComponentCode**: Read the code of a front-end component.\n2. **EditFrontendComponent**: Edit a front-end component with various changes.\n3. **EditSmartContractFrontendComponent**: Modify a frontend component to add/update smart contract interactions.\n4. **GenerateImageAndPlaceInComponent**: Generate an image from a description and place it in a component.\n5. **TransferToSmartContractAssistant**: Transfer the conversation to a smart contract assistant.\n\nWhat would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "4506e0e0-1dad-4493-b051-140bb1b28620",
+        "timestamp": "2024-12-04T16:54:33.869143Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "There does not seem to be a tool for editing charts there",
+        "metadata": {}
+    },
+    {
+        "id": "da0ac81c-8e5c-418a-a798-2167f7ea3491",
+        "timestamp": "2024-12-04T16:54:40.818819Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The tools available can indeed handle various aspects of charts through front-end component edits. You can modify many properties of chart components using these tools. What specific change would you like to make to a chart next?",
+        "metadata": {}
     }
 ]
