@@ -218,5 +218,13 @@
         "source": "web_client",
         "content": "Hi, how are you doing?",
         "metadata": {}
+    },
+    {
+        "id": "cd84b65c-a2bd-4b88-8ab7-b9caad9e7a9f",
+        "timestamp": "2024-12-04T16:52:44.178912Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "I'm here and ready to help you with building your app! What would you like to work on next?",
+        "metadata": {}
     }
 ]
