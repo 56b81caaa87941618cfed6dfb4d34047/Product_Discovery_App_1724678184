@@ -210,5 +210,13 @@
         "source": "base_assistant",
         "content": "The second series is now displayed as columns instead of a line. What else would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "731fcdb3-382a-4e54-8d71-dc4a5afe3d63",
+        "timestamp": "2024-12-04T16:52:40.299955Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Hi, how are you doing?",
+        "metadata": {}
     }
 ]
