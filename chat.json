@@ -371,5 +371,13 @@
         "source": "base_assistant",
         "content": "The background of the first chart has been changed to blue. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "ee466841-539f-45b0-9bc2-13bb5f57b457",
+        "timestamp": "2024-12-04T16:55:53.864276Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you tell me what day is it?",
+        "metadata": {}
     }
 ]
